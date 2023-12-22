@@ -107,3 +107,5 @@ source /usr/local/share/powerlevel10k/powerlevel10k.zsh-theme
 
 export VOLTA_HOME="$HOME/.volta"
 export PATH="$VOLTA_HOME/bin:$PATH"
+
+# Don't forget to commit changes (22/12/2023)
